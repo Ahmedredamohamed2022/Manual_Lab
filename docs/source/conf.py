@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Manual Lab'
-copyright = '2022, ahmed'
-author = 'ahmed'
+copyright = '2022, Efabless'
+author = 'Ahmed Reda'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
