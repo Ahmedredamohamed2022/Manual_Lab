@@ -8,9 +8,9 @@
 
 project = 'Manual Lab'
 
-copyright = '2022,Efabless_Ahmed Reda'
+copyright = '2022,Efabless'
 author = 'Ahmed Reda'
-release = '2'
+release = '1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
