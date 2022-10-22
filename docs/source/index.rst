@@ -14,6 +14,9 @@ Welcome to lab's documentation!
 
 It is a trial to  document our work
 -----------------------------------
+
+Lab(01)
+=======
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
