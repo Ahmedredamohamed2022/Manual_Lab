@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Manual Lab'
-copyright = '2022, Efabless'
+copyright = '2022, Efabless_Ahmed Reda'
 author = 'Ahmed Reda'
 release = '1'
 
