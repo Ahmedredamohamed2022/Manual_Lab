@@ -364,7 +364,7 @@ Usage Steps
    :scale: 60%
    :align: center
 
-   *Figure 14. GBW*
+   *Figure 14. Open loop gain*
 
 
 
