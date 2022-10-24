@@ -7,7 +7,7 @@ Design Analog Mixed Signal blocks Using Open Source Tools©
 Objectives
 ------------
 
-* **The main aim of the lab** is to propose an Open Source framework for a Full-custom Integrated circuit (*IC*) design, as shown in Fig.1. The framework relies on the cooperation of open resources; Xschem for schematic editing,NGspice for circuit netlisting/simulating,Python for data analysis. As a  result, the proposed open-source framework facilitates freely sharing and commercialization of the Integrated circuits design.
+* **The main aim of the lab** is to propose an open source framework for a full-custom Integrated Circuit (*IC*) design, as shown in Figure 1. The framework relies on the cooperation of open resources; Xschem for schematic editing,NGspice for circuit netlisting/simulating,Python for data analysis. As a  result, the proposed open-source framework facilitates freely sharing and commercialization of the Integrated circuits design.
 
 * A part of the presented framework is an xray tool which provides several benefits; It provides a deep automated analysis,a fully characterization of  analog IP blocks,improvementof productivity time, assessment of maturity design.
 
