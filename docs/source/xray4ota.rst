@@ -372,7 +372,7 @@ Usage Steps
    :scale: 60%
    :align: center
 
-   *Figure 15. conclsion*
+   *Figure 15. conclusion*
 
 
 
