@@ -61,8 +61,8 @@ xray4ldo ©
      - 0.005958
      - (V/V)
    * - 
-     - load regulation                   
-     - 2.04
+     - load regulation @ Vin=2V and IL=0.1mA:10mA                   
+     - 0.32
      - (V/I)
    * - 
      - Dropout voltage                   
