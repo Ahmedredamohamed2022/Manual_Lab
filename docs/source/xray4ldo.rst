@@ -51,11 +51,11 @@ xray4ldo ©
    * - DC/DC Sweep
      - Total Current
      - 9.13568E-05
-     - (A)
+     -  (A)
    * - 
      - Total Power 
      - 0.000182714
-     - (W)
+     -  (W)
    * - 
      - line regulation @ Il=0.1mA and Vin=1.8V:3.5V                   
      - 0.005958
