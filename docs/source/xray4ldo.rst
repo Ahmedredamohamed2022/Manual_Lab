@@ -119,7 +119,7 @@ xray4ldo ©
 
    *Figure 4. Mismatch and process analysist.*
    
-   .. figure:: /images/fig5ldo.png
+.. figure:: /images/fig5ldo.png
    :scale: 50%
    :align: center
 
