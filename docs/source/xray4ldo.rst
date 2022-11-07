@@ -57,8 +57,8 @@ xray4ldo ©
      - 0.000182714
      - (W)
    * - 
-     - line regulation                   
-     - 0.7796
+     - line regulation @ Il=0.1mA and Vin=1.8:3.5                   
+     - 0.005958
      - (V/V)
    * - 
      - load regulation                   
