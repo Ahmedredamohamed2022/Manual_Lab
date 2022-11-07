@@ -110,7 +110,7 @@ xray4ldo ©
      - (ppm/C)
   
 
-* Mismatch and process analysis for loop gain, gain bandwidth product, and phase margin are considered as shown in Figure 4.
+* Mismatch and process analysis for loop gain, gain bandwidth product, and phase margin are considered as shown in Figure 4 and 5.
 
 
 .. figure:: /images/fig4ldo.png
@@ -118,3 +118,9 @@ xray4ldo ©
    :align: center
 
    *Figure 4. Mismatch and process analysist.*
+   
+   .. figure:: /images/fig5ldo.png
+   :scale: 50%
+   :align: center
+
+   *Figure 5. Mismatch and process analysist,Cont.*
