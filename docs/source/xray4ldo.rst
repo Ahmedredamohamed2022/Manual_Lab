@@ -49,7 +49,7 @@ xray4ldo ©
      - LDO Topology
      - Unit  
    * - DC/DC Sweep
-     - Total Current
+     - Total Current @ No Load
      - 9.13568E-05
      -  (A)
    * - 
