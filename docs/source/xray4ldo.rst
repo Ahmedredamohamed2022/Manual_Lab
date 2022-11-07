@@ -100,7 +100,7 @@ xray4ldo ©
      - 9.553
      - (mV)
    * - 
-     - Startup-time     
+     - Startup-time @ No load     
      - 26
      - (usec)
 
