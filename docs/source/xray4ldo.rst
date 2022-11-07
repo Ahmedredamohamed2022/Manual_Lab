@@ -37,7 +37,7 @@ xray4ldo ©
 
  
 
-* The developed tool is utilized to test a  designed LDO. After using the xray4ldo tool, the electrical characteristics of LDO are listed in table 1 and 2.
+* The developed tool is utilized to test a  designed LDO. After using the xray4ldo tool, the electrical characteristics of LDO are listed in table 1 and 2 @TT corner and Temp=27C.
 
 
 .. list-table:: Table 1 : Results of xray4ldo tool
