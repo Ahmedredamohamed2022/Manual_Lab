@@ -53,7 +53,7 @@ xray4ldo ©
      - 9.13568E-05
      -  (A)
    * - 
-     - Total Power 
+     - Total Power @ No Load and Vin=2V
      - 0.000182714
      -  (W)
    * - 
@@ -96,7 +96,7 @@ xray4ldo ©
      - (mV)
 
    * - 
-     - Line transient      
+     - Line transient @ Il=0.1mAand Vin=2V:3.5V      
      - 9.553
      - (mV)
    * - 
@@ -104,7 +104,7 @@ xray4ldo ©
      - 26
      - (usec)
 
-   * - Temp
+   * - Temp.
      - Temperature Coefficient    
      - 54.7
      - (ppm/C)
