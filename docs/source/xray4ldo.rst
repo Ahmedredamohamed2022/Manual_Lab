@@ -96,7 +96,7 @@ xray4ldo ©
      - (mV)
 
    * - 
-     - Line transient @ Il=0.1mAand Vin=2V:3.5V      
+     - Line transient @ Il=0.1mA and Vin=2V:3.5V      
      - 9.553
      - (mV)
    * - 
@@ -105,7 +105,7 @@ xray4ldo ©
      - (usec)
 
    * - Temp.
-     - Temperature Coefficient    
+     - Temperature Coeff. @Vin=2V, Il=0.1mA, and Temp.=-40:85C   
      - 54.7
      - (ppm/C)
   
