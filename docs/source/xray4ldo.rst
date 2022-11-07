@@ -27,15 +27,19 @@ xray4ldo ©
    *Figure 2. Global Low Dropout Linear Regulator Market Size, Forecast and Y-o-Y Growth, 2019-2030.*
 
 
-* Herein, an automated analysis of LDO is depicted. The  LDO is considered a  circuit under test as shown in Figure 3. The outer terminals should be defined as 6x-ports; vin, vref, vf, vss, vout, and vref wherever, the internal structure of LDO be.  Several kinds of analysis are used such as DC, transient, and AC analysis to define district parameters. Hence, the maturity of the design can be estimated.  
+* Herein, an automated analysis of LDO is depicted. The  LDO is considered a  circuit under test as shown in Figure 3(a). The outer terminals should be defined as 6x-ports; vin, vref, vf, vss, vout, and vref wherever, the internal structure of LDO be.  Several kinds of analysis are used such as DC, transient, and AC analysis to define district parameters. Hence, the maturity of the design can be estimated when executing the hierarchy flow Of xray4ldo tool, as depicted in Figure 3(b)
 
 .. figure:: /images/fig3ldo.png
    :scale: 50%
    :align: center
 
-   *Figure 3. LDO under test.*
+   *Figure 3 (a). LDO under test.*
 
- 
+.. figure:: /images/ldo3.png
+   :scale: 50%
+   :align: center
+
+   *Figure 3 (b). Hierarchy Flow Of X-ray4ota tool.* 
 
 * The developed tool is utilized to test a  designed LDO. After using the xray4ldo tool, the electrical characteristics of LDO are listed in table 1 and 2 @TT corner and Temp=27C.
 
