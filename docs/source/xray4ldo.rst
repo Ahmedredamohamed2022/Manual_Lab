@@ -91,7 +91,7 @@ xray4ldo ©
      - (dB))
 
    * - Transient Analysis 
-     - Load transient       
+     - Load transient @vin=2V and Il=0mA:10mA      
      - 7.983
      - (mV)
 
