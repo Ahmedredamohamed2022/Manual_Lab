@@ -124,3 +124,17 @@ xray4ldo ©
    :align: center
 
    *Figure 5. Mismatch and process analysist,Cont.*
+
+**Reference **
+
+[1] https://www.maximizemarketresearch.com/market-report/global-power-management-ic-market/65901/
+
+[2] https://circuitcellar.com/newsletter/pmic-market-to-exceed-5-billion-by-2027/
+
+[3] https://www.industryarc.com/Report/17038/low-dropout-ldo-regulator-market.html
+
+[4] https://dataintelo.com/report/global-low-dropout-linear-regulator-market/
+
+[5] https://github.com/google/skywater-pdk/blob/main/docs/rules/device-details.rst
+
+
