@@ -125,7 +125,7 @@ xray4ldo ©
 
    *Figure 5. Mismatch and process analysist,Cont.*
 
-**Reference **
+**Reference**
 
 [1] https://www.maximizemarketresearch.com/market-report/global-power-management-ic-market/65901/
 
