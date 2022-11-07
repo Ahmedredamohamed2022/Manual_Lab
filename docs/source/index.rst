@@ -12,8 +12,9 @@ Efabless Manual lab©
    :caption: Contents:
 
    introduction
-
+   xraytool
    xray4ota
+   xray4ldo
 
 
 
