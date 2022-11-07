@@ -1,6 +1,6 @@
 .. _xray4ldo:
 
-Case Study (2)  
+Case Study_LDO (2)  
 ===============================================
 
 xray4ldo ©
