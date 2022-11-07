@@ -1,6 +1,6 @@
 .. _xray4ota:
 
-Case Study (1)  
+Case Study_OTA (1)  
 ===============================================
 
 xray4ota ©
