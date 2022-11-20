@@ -1,0 +1,45 @@
+
+vdd vdd vss 1.8
+vss vss GND 0
+C1 vbg vss 100f m=1
+i2 vdd net1 250n
+XM3 bias net1 vss vss sky130_fd_pr__nfet_01v8 L=2 W=1 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+XM4 net1 net1 vss vss sky130_fd_pr__nfet_01v8 L=2 W=1 nf=1 ad='int((nf+1)/2) * W/nf * 0.29' as='int((nf+2)/2) * W/nf * 0.29'
++ pd='2*int((nf+1)/2) * (W/nf + 0.29)' ps='2*int((nf+2)/2) * (W/nf + 0.29)' nrd='0.29 / W' nrs='0.29 / W'
++ sa=0 sb=0 sd=0 mult=4 m=4
+x1 vbg vss vss vss vss vss vss vss vdd vss vss vss vss vss vss vss vss bias vdd vss bandgap_lvs
+
+
+**** begin user architecture code
+.lib /ciic/pdk//sky130A/libs.tech/ngspice/sky130.lib.spice tt
+.include bandgap_lvs.spice
+
+
+.options savecurrents
+.control
+**set filetype=binary
+set filetype=ascii
+set color0=white
+set color1=black
+set color3=blue
+set xbrushwidth=3
+save all
+OP
+dc temp -40 125 0.1
+meas DC vonom FIND vbg AT=27
+
+print vecmin(vbg)
+print vecmax(vbg)
+let delta = vecmax(vbg) - vecmin(vbg)
+let tc=1000000*(delta)/((125-(-40))*vonom)
+
+plot vbg
+print delta tc
+
+.endc
+
+
+
+.GLOBAL GND
