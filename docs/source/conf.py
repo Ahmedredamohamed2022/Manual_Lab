@@ -8,7 +8,7 @@
 
 project = 'Manual Lab'
 
-copyright = '2022,Efabless'
+copyright = '2022'
 author = 'Ahmed Reda'
 release = '1'
 
